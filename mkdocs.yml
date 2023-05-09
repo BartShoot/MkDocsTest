@@ -1,0 +1,25 @@
+site_name: MkDocs test
+theme: 
+  name: material
+  language: en
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: slate
+      primary: blackfrog
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: default
+      primary: blackfrog
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+extra_css:
+  - stylesheets/extra.css
+plugins:
+  - glightbox
