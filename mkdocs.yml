@@ -1,6 +1,9 @@
 site_name: MkDocs test
 theme: 
   name: material
+  features:
+    - search.suggest
+    - search.highlight
   language: en
   palette:
     # Palette toggle for light mode
