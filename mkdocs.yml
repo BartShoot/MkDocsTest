@@ -1,9 +1,17 @@
-site_name: MkDocs test
+site_name: CNC Router User Manual
+repo_url: https://github.com/BartShoot/MkDocsTest
+repo_name: BartShoot/MKDocsTest
 theme: 
   name: material
+  logo: resources/LogoFull.png
   features:
     - search.suggest
     - search.highlight
+    - navigation.instant
+    - navigation.tracking
+    - navigation.expand
+    - navigation.indexes
+    - toc.follow
   language: en
   palette:
     # Palette toggle for light mode
@@ -21,13 +29,57 @@ theme:
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
+extra: 
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Polish
+      link: /pl/
+      lang: pl
 
 extra_css:
   - stylesheets/extra.css
   
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+
 # https://pypi.org/project/mkdocs-with-pdf/
+# https://github.com/ultrabug/mkdocs-static-i18n
 plugins:
-  - glightbox
+  - search
+  - i18n:
+      default_language: en
+      material_alternate: true
+      nav_translations:
+        pl:
+          Introduction: Wstęp
+      languages:
+        en:
+          name: English
+          site_name: CNC Mill User Manual
+          build: true
+        pl:
+          name: Polski
+          site_name: Instrukcja obsługi użytkownika frezarki
+          build: true
+  - glightbox:
+       touchNavigation: true
+       loop: false
+       effect: zoom
+       slide_effect: slide
+       width: 100%
+       height: auto
+       zoomable: true
+       draggable: true
+       auto_caption: true
+       caption_position: bottom
+  - git-revision-date-localized:
+      enable_creation_date: true
   - with-pdf:
         #author: WHO
         #copyright: ANY TEXT
