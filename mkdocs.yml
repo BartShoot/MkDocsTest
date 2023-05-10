@@ -26,3 +26,4 @@ extra_css:
   - stylesheets/extra.css
 plugins:
   - glightbox
+  - with-pdf # https://pypi.org/project/mkdocs-with-pdf/
