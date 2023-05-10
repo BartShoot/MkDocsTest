@@ -1,4 +1,5 @@
 site_name: CNC Router User Manual
+site_url: https://bartshoot.github.io/MkDocsTest/
 repo_url: https://github.com/BartShoot/MkDocsTest
 repo_name: BartShoot/MKDocsTest
 theme: 
@@ -32,10 +33,10 @@ theme:
 extra: 
   alternate:
     - name: English
-      link: /en/
+      link: /MkDocsTest/en/
       lang: en
     - name: Polish
-      link: /pl/
+      link: /MkDocsTest/pl/
       lang: pl
 
 extra_css:
