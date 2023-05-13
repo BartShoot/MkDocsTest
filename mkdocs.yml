@@ -1,7 +1,4 @@
-site_name: CNC Router User Manual
-site_url: https://bartshoot.github.io/MkDocsTest/
-repo_url: https://github.com/BartShoot/MkDocsTest
-repo_name: BartShoot/MKDocsTest
+site_name: CNCFrog User Manual
 theme: 
   name: material
   logo: resources/LogoFull.png
@@ -30,6 +27,15 @@ theme:
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
+
+nav:
+  - index.md
+  - Introduction:
+    - Introduction/index.md
+  - Assembly:
+    - Assembly/index.md
+    - Assembly/step1.md
+
 extra: 
   alternate:
     - name: English
@@ -59,14 +65,15 @@ plugins:
       nav_translations:
         pl:
           Introduction: Wstęp
+          Assembly: Montaż
       languages:
         en:
           name: English
-          site_name: CNC Mill User Manual
+          site_name: CNCFrog User Manual
           build: true
         pl:
           name: Polski
-          site_name: Instrukcja obsługi użytkownika frezarki
+          site_name: Instrukcja użytkownika CNCFrog
           build: true
   - glightbox:
        touchNavigation: true
