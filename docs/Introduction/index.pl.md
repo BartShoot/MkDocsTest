@@ -15,8 +15,8 @@
 * Numer seryjny znajduje się na ramie frezarki.
 
 <figure markdown>
-![Nie wyrzucaj](/resources/WEEE_symbol_vectors.svg){ width="100", align=left }
-![Znak CE](/resources/CEmarking.svg){ width="200", align=right }
+![Nie wyrzucaj](/MkDocsTest/resources/WEEE_symbol_vectors.svg){ width="100", align=left }
+![Znak CE](/MkDocsTest/resources/CEmarking.svg){ width="200", align=right }
 </figure>
 
 ## 2. Wyłączenie odpowiedzialności
@@ -29,7 +29,7 @@ __Z tego i innych powodów zaznaczamy wyraźnie, że nie ponosimy odpowiedzialno
 ## 3. Instrukcja bezpieczeństwa
 
 !!! Danger "Uwaga!"
-    ![Uwaga](/resources/warningOutline.svg){ width="120", align=right }
+    ![Uwaga](/MkDocsTest/resources/warningOutline.svg){ width="120", align=right }
     <font size=5 color=red> Zachowaj szczególną ostrożność podczas pracy z frezarkę. Frezarka jest urządzeniem elektrycznym z ruchomymi częściami.</font>
 
 1. Urządzenie jest przeznaczone wyłącznie do użytku w pomieszczeniach. Nie wystawiaj frezarki na działanie warunków atmosferycznych takich jak deszcz czy śnieg. Zawsze przechowuj frezarkę w suchym otoczeniu, w odległości co najmniej 30 cm od innych przedmiotów.
@@ -85,7 +85,7 @@ Oczywiście jest możliwość także sterowania frezarką po podłączeniu jej k
 Do kontrolowania CNCFrog zalecamy użycie programu CNCJS [(https://cnc.js.org/)](https://cnc.js.org/) w pełni darmowy, a przy tym jest bardzo zaawansowanym oraz dość intuicyjnym kontrolerem. 
 
 <figure markdown>
-![cnc.js](/resources/cncjs.png)
+![cnc.js](/MkDocsTest/resources/cncjs.png)
 <figcaption>cnc.js</figcaption>
 </figure>
 
