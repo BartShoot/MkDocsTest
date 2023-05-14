@@ -35,6 +35,7 @@ nav:
   - Assembly:
     - Assembly/index.md
     - Assembly/step1.md
+    - Assembly/step2.md
 
 extra: 
   alternate:

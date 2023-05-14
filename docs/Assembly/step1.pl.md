@@ -1,4 +1,4 @@
-# Krok 1
+# Krok 1 - Montaż nakrętek pazurkowych w płycie roboczej 
 
 ## Połóż płytę MDF logiem CNCFrog do dołu
 
