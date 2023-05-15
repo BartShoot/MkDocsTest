@@ -1,7 +1,7 @@
 site_name: CNCFrog User Manual
 theme: 
   name: material
-  logo: resources/LogoFull.png
+  logo: resources/LogoFull.webp
   features:
     - search.suggest
     - search.highlight
