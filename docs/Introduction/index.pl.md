@@ -85,7 +85,7 @@ Oczywiście jest możliwość także sterowania frezarką po podłączeniu jej k
 Do kontrolowania CNCFrog zalecamy użycie programu CNCJS [(https://cnc.js.org/)](https://cnc.js.org/) w pełni darmowy, a przy tym jest bardzo zaawansowanym oraz dość intuicyjnym kontrolerem. 
 
 <figure markdown>
-![cnc.js](/MkDocsTest/resources/cncjs.webp)
+![cnc.js](/MkDocsTest/resources/cncjs.webp){ loading=lazy }
 <figcaption>cnc.js</figcaption>
 </figure>
 
