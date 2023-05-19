@@ -6,6 +6,7 @@ theme:
     - search.suggest
     - search.highlight
     - navigation.instant
+    - navigation.footer
     - navigation.tracking
     - navigation.expand
     - navigation.indexes
@@ -35,7 +36,12 @@ nav:
   - Assembly:
     - Assembly/index.md
     - Assembly/step1.md
-    - Assembly/step2.md
+    - Step2:
+      - Assembly/Step2/index.md
+      - Assembly/Step2/step2profileA.md
+      - Assembly/Step2/step2profileB.md
+      - Assembly/Step2/step2profileC.md
+      - Assembly/Step2/step2profileD.md
 
 extra: 
   alternate:
@@ -116,6 +122,7 @@ plugins:
         pl:
           Introduction: Wstęp
           Assembly: Montaż
+          Step2: Krok 2 - Przygotowanie profili v-slot ramy frezarki
       languages:
         en:
           name: English

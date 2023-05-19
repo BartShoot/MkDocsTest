@@ -76,8 +76,3 @@
 
 !!! Note "Wzornik"
     Na stronach z rysunkiem nakrętki T-nut wsuń tylko nakrętki, na polach z trójkątem nakręć też kątowniki zgodnie z ilością rysunków.
-
-![Nakręć na nią nakrętkę T-nut](/MkDocsTest/resources/step2.23.webp){ loading=lazy }
-![Nakręć na nią nakrętkę T-nut](/MkDocsTest/resources/step2.24.webp){ loading=lazy }
-![Nakręć na nią nakrętkę T-nut](/MkDocsTest/resources/step2.25.webp){ loading=lazy }
-![Nakręć na nią nakrętkę T-nut](/MkDocsTest/resources/step2.26.webp){ loading=lazy }
