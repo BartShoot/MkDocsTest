@@ -42,6 +42,11 @@ nav:
       - Assembly/Step2/step2profileB.md
       - Assembly/Step2/step2profileC.md
       - Assembly/Step2/step2profileD.md
+      - Assembly/Step2/step2profileL+R.md
+    - Step3:
+      - Assembly/Step3/index.md
+    - Step4:
+      - Assembly/Step4/index.md
 
 extra: 
   alternate:
@@ -123,6 +128,8 @@ plugins:
           Introduction: Wstęp
           Assembly: Montaż
           Step2: Krok 2 - Przygotowanie profili v-slot ramy frezarki
+          Step3: Krok 3 - Montaż ramy frezarki i zasilacza
+          Step4: Krok 4 - Montaż płyty MDF do ramy frezarki
       languages:
         en:
           name: English
