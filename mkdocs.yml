@@ -49,6 +49,9 @@ nav:
       - Assembly/Step4/index.md
     - Step5:
       - Assembly/Step5/index.md
+    - Step6:
+      - Assembly/Step6/index.md
+     
 
 extra: 
   alternate:
@@ -133,6 +136,7 @@ plugins:
           Step3: Krok 3 - Montaż ramy frezarki i zasilacza
           Step4: Krok 4 - Montaż płyty MDF do ramy frezarki
           Step5: Krok 5 - Montaż osi Z - mocowanie wrzeciona 
+          Step6: Krok 6 - Montaż osi Z - montaż modułu Z 
       languages:
         en:
           name: English
