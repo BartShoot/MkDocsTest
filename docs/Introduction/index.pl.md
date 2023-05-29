@@ -15,8 +15,10 @@
 * Numer seryjny znajduje się na ramie frezarki.
 
 <figure markdown>
+
 ![Nie wyrzucaj](/MkDocsTest/resources/WEEE_symbol_vectors.svg){ width="100", align=left }
-![Znak CE](/MkDocsTest/resources/CEmarking.svg){ width="200", align=right }
+![Znak CE](/MkDocsTest/resources/CEMarking.svg){ width="200", align=right }
+
 </figure>
 
 ## 2. Wyłączenie odpowiedzialności
