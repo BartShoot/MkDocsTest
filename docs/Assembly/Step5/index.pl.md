@@ -1,6 +1,6 @@
 # Krok 5 - Montaż osi Z - mocowanie wrzeciona 
 
-## Zamontuj dwa łożyska liniowe LM12LUU w mocowanie wrzeciona W i zabezpiecz je przed wysuwaniem się dwoma wkrętami (robaczki) po bokach mocowania W ????
+## Zamontuj dwa łożyska liniowe LM12LUU w mocowanie wrzeciona W i zabezpiecz je przed wysuwaniem się dwoma wkrętami (robaczki) po bokach mocowania wrzeciona
 
 ![Montaż osi Z](/MkDocsTest/resources/step5.1.webp)
 ![Montaż osi Z](/MkDocsTest/resources/step5.2.webp)
@@ -10,7 +10,7 @@
 ![Montaż osi Z](/MkDocsTest/resources/step5.5.webp)
 ![Montaż osi Z](/MkDocsTest/resources/step5.6.webp)
 
-## Ze śruby silnika osi Z wykręć nakrętkę trapezową i włóż w otwór montażowy mocowania W, ????
+## Ze śruby silnika osi Z wykręć nakrętkę trapezową i włóż w otwór montażowy mocowania wrzeciona
 
 ![Montaż osi Z](/MkDocsTest/resources/step5.7.webp)
 ![Montaż osi Z](/MkDocsTest/resources/step5.8.webp)
