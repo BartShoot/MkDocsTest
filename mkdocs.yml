@@ -53,6 +53,8 @@ nav:
       - Assembly/Step6/index.md
     - Step7:
       - Assembly/Step7/index.md
+    - Step8:
+      - Assembly/Step8/index.md
      
 
 extra: 
@@ -140,6 +142,7 @@ plugins:
           Step5: Krok 5 - Montaż osi Z - mocowanie wrzeciona 
           Step6: Krok 6 - Montaż osi Z - montaż modułu Z 
           Step7: Krok 7 - Montaż osi X
+          Step8: Krok 8 - Montaż osi X na ramie frezarki
       languages:
         en:
           name: English
