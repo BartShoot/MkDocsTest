@@ -63,6 +63,8 @@ nav:
       - Assembly/Step11/index.md
     - Step12:
       - Assembly/Step12/index.md
+    - Step13:
+      - Assembly/Step13/index.md
      
 
 extra: 
@@ -155,6 +157,7 @@ plugins:
           Step10: Krok 10 - Montaż elektroniki
           Step11: Krok 11 - Montaż modułu bezpieczeństwa
           Step12: Krok 12 - Podłączenie zasilania
+          Step13: Krok 13 - Podłączenie wyświetlacza LCD
       languages:
         en:
           name: English
