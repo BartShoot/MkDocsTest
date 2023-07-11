@@ -65,6 +65,8 @@ nav:
       - Assembly/Step12/index.md
     - Step13:
       - Assembly/Step13/index.md
+    - Step14:
+      - Assembly/Step14/index.md
      
 
 extra: 
@@ -157,7 +159,8 @@ plugins:
           Step10: Krok 10 - Montaż elektroniki
           Step11: Krok 11 - Montaż modułu bezpieczeństwa
           Step12: Krok 12 - Podłączenie zasilania
-          Step13: Krok 13 - Podłączenie wyświetlacza LCD
+          Step13: Krok 13 - Montaż wyświetlacza LCD
+          Step14: Krok 14 - Montaż modułu odkurzacza 
       languages:
         en:
           name: English
