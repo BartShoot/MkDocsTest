@@ -67,6 +67,8 @@ nav:
       - Assembly/Step13/index.md
     - Step14:
       - Assembly/Step14/index.md
+    - Step15:
+      - Assembly/Step15/index.md
      
 
 extra: 
@@ -161,6 +163,7 @@ plugins:
           Step12: Krok 12 - Podłączenie zasilania
           Step13: Krok 13 - Montaż wyświetlacza LCD
           Step14: Krok 14 - Montaż modułu odkurzacza 
+          Step15: Krok 15 - Montaż Proxxon/Dremmel  
       languages:
         en:
           name: English
