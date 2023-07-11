@@ -61,6 +61,8 @@ nav:
       - Assembly/Step10/index.md
     - Step11:
       - Assembly/Step11/index.md
+    - Step12:
+      - Assembly/Step12/index.md
      
 
 extra: 
@@ -152,6 +154,7 @@ plugins:
           Step9: Krok 9 - Montaż krańcówek osi X Y Z
           Step10: Krok 10 - Montaż elektroniki
           Step11: Krok 11 - Montaż modułu bezpieczeństwa
+          Step12: Krok 12 - Podłączenie zasilania
       languages:
         en:
           name: English

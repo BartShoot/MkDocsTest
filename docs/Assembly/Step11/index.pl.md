@@ -8,7 +8,6 @@
 
 ## Podnieś  ostrożnie pokrywę, tak by kable nie rozłączyły się, a następnie umieść 4 śrubki M5x10 w otworach montażowych
 
-
 ![Montaż modułu bezpieczeństwa](/MkDocsTest/resources/step11.4.webp)
 ![Montaż modułu bezpieczeństwa](/MkDocsTest/resources/step11.5.webp)
 
