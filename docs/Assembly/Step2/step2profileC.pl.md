@@ -1,4 +1,5 @@
 # Profil C
+Umieść nakrętki T-nut oraz kątowniki w profilu zgodnie z szablonami.
 
 ![Profil C](/MkDocsTest/resources/step2.49.webp){ loading=lazy }
 ![Profil C](/MkDocsTest/resources/step2.50.webp){ loading=lazy }

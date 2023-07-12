@@ -1,6 +1,6 @@
 # Profil L i R
 
-## W profilach 2040 L i R umieść nakrętki T-nut w taki jak na zdjęciach,  korzystaj ze wzorników naklejonych na profilach.
+W profilach 2040 L i R umieść nakrętki T-nut w taki jak na zdjęciach, korzystaj ze wzorników naklejonych na profilach.
 
 ## Profil L
 

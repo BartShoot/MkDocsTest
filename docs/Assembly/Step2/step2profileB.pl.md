@@ -1,4 +1,5 @@
 # Profil B
+Umieść nakrętki T-nut oraz kątowniki w profilu zgodnie z szablonami.
 
 ![Profil B](/MkDocsTest/resources/step2.38.webp){ loading=lazy }
 ![Profil B](/MkDocsTest/resources/step2.39.webp){ loading=lazy }
