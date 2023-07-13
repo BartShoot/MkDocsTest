@@ -7,7 +7,6 @@
 - Śruby M3x10
 - Śruby M5x10
 - Nóżki
-- 
 ## Układ elementów w ramie
 Połóż wszystkie elementy na płaskiej powierzchni. Przykręć za pomocą śrub M5x8 profile v-slot 2020 do profili v-slot 2040 zachowując odpowiednie odległości tak jak na zdjęciu
 
