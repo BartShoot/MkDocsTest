@@ -23,5 +23,5 @@ Przesuń wyłącznik zasilania w module safe na ON
 ## Gratulujemy, Twoja frezarka jest gotowa do pracy!
 
 <figure markdown>
-  ![Złożona frezarka](resources/AssembledHQ.webp){ Width="600" }
+  ![Złożona frezarka](/MkDocsTest/resources/AssembledHQ.webp){ Width="600" }
 </figure>
