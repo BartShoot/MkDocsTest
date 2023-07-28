@@ -1,15 +1,15 @@
 # Krok 6 - Montaż osi Z - montaż modułu Z 
 
-## Potrzebne elementy
-- Łożyska LM12UU
-- Wkręty dociskowe M3
-- Śruba trapezowa
-- Śruby M3x25
-- Śruby M3x10
-- Smar CX-80
-- Krótkie pręty liniowe fi 12
-- Łożysko kulkowe 608RS
-- Silnik krokowy
+!!! info "Potrzebne elementy"
+    - Łożyska LM12UU
+    - Wkręty dociskowe M3
+    - Śruba trapezowa
+    - Śruby M3x25
+    - Śruby M3x10
+    - Smar CX-80
+    - Krótkie pręty liniowe fi 12
+    - Łożysko kulkowe 608RS
+    - Silnik krokowy
 
 ## Montaż łożysk LM12UU
 Weź główny element osi Z i umieść w dwóch otworach po dwa łożyska LM12UU, tak by łożyska były przekręcone względem siebie o około 45 st.
@@ -18,7 +18,7 @@ Weź główny element osi Z i umieść w dwóch otworach po dwa łożyska LM12UU
 ![Montaż osi Z](/MkDocsTest/resources/step6.2.webp)
 
 !!! note "Zwróć uwagę"
-    Aby upewnić się że łożyska są obrócone o 45 stopni popatrz na napisy ???? i/lub na same kulki w środku łożyska
+    Aby upewnić się że łożyska są obrócone o 45 stopni położenie kulek w środku łożyska
 
 ![Montaż osi Z](/MkDocsTest/resources/step6.3.webp)
 ![Montaż osi Z](/MkDocsTest/resources/step6.4.webp)
