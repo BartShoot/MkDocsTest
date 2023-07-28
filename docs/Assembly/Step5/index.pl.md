@@ -1,13 +1,13 @@
 # Krok 5 - Montaż osi Z - mocowanie wrzeciona 
 
-## Potrzebne elementy
-- Łożyska liniowe LM12LUU
-- Śruby robaczkowe
-- Śruby M3x16
-- Śruby M4x50
-- Nakrętka kwadratowa M3
-- Nakrętka sześciokątna M3
-- Nakrętka trapezowa
+!!! info "Potrzebne elementy"
+    - Łożyska liniowe LM12LUU
+    - Śruby robaczkowe
+    - Śruby M3x16
+    - Śruby M4x50
+    - Nakrętka kwadratowa M3
+    - Nakrętka sześciokątna M3
+    - Nakrętka trapezowa
 
 ## Montaż wózka 
 Zamontuj dwa łożyska liniowe LM12LUU w mocowanie wrzeciona W i zabezpiecz je przed wysuwaniem się dwoma wkrętami (robaczki) po bokach mocowania wrzeciona
