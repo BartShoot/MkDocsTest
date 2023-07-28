@@ -1,22 +1,10 @@
-# Krok 2 - Przygotowanie profili v-slot ramy frezarki 
+# Step 2 - Preparing the v-slot extrusions frame 
 
-!!! info "Potrzebne elementy"
-    * klucz imbusowy 4mm
-    * 2 najdłuższe profile v-slot 2040
-    * 4 profile v-slot 2020
-    * czarne kątkowniki (łączniki profili)
-    <figure markdown>
-    ![Czarne kątowniki](/MkDocsTest/resources/step2.2.webp){ loading=lazy }
-    </figure>
-    * śrubki M5x8
-    <figure markdown>
-    ![Śrubki M5x8](/MkDocsTest/resources/step2.4.webp){ loading=lazy }
-    </figure>
-    * nakrętki T-nut
-    <figure markdown>
-    ![Nakrętki T-nut](/MkDocsTest/resources/step2.3.webp){ loading=lazy }
-    </figure>
-
+!!! info "Required elements"
+    * 4mm Allen key (hex key) 
+    * 2 longest 2040 v-slot extrusions 
+    * 4 2020 v-slot extrusions
+  
 <figure markdown>
 ![Profile podpisane](/MkDocsTest/resources/step2.1.webp){ loading=lazy }
 <figcaption>Profile 2x 2040, 4x 2020</figcaption>
@@ -24,6 +12,22 @@
 
 !!! Tip "Wskazówka"
     Oznacz każdy z profili 2020 kolejno literami A, B, C, D. Te oznaczenia pomogą ci sprawnie zmontować ramę frezarki.
+
+
+* czarne kątkowniki (łączniki profili)
+<figure markdown>
+![Czarne kątowniki](/MkDocsTest/resources/step2.2.webp){ loading=lazy }
+</figure>
+
+* śrubki M5x8
+<figure markdown>
+![Śrubki M5x8](/MkDocsTest/resources/step2.4.webp){ loading=lazy }
+</figure>
+
+* nakrętki T-nut
+<figure markdown>
+![Nakrętki T-nut](/MkDocsTest/resources/step2.3.webp){ loading=lazy }
+</figure>
 
 ## Przygotowanie kątowników
 W jeden z otworów kątownika włóż śrubę M5x8 i nakręć na nią nakrętkę T-nut. __W ten sposób przygotuj wszystkie kątowniki.__

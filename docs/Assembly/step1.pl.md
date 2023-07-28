@@ -1,9 +1,10 @@
 # Krok 1 - Montaż nakrętek pazurkowych w płycie roboczej 
 
-## Potrzebne elementy i narzędzia
-- Płyta MDF
-- Nakrętki pazurkowe
-- Młotek
+
+!!! info "Potrzebne elementy"
+    - Płyta MDF
+    - Nakrętki pazurkowe
+    - Młotek
 
 ## Montaż
 
