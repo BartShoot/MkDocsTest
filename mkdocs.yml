@@ -166,6 +166,24 @@ plugins:
           Step13: Krok 13 - Montaż wyświetlacza LCD
           Step14: Krok 14 - Montaż modułu odkurzacza 
           Step15: Krok 15 - Montaż Proxxon/Dremmel  
+        en:
+          Introduction: Introduction
+          BOM: Bill of Materials (BOM)
+          Assembly: Assembly
+          Step2: Step 2 - Preparing the v-slot extrusions frame
+          Step3: Step 3 - Frame and PSU assembly
+          Step4: Step 4 - Fastening the MDF board to the frame
+          Step5: Step 5 - Z axis - spindle assembly 
+          Step6: Step 6 - Z axis - Z module assembly 
+          Step7: Step 7 - X-axis assembly
+          Step8: Step 8 - Mounting the X-axis on the frame
+          Step9: Step 9 - X/Y/Z - axis endstops assembly
+          Step10: Step 10 - Electronics assembly
+          Step11: Step 11 - Safety module assembly
+          Step12: Step 12 - Connecting the PSU
+          Step13: Step 13 - LCD screen assembly
+          Step14: Step 14 - Vacuum module assembly
+          Step15: Step 15 - Proxxon/Dremmel Assembly  
       languages:
         en:
           name: English
