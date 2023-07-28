@@ -1,16 +1,9 @@
 # Krok 13 - Montaż wyświetlacza LCD
 
-## Potrzebne elementy
-- Śruby M5x8
-- Śruby M5x5
-- Śruby M3x6
-
-## Zasilanie wyświetlacza LCD
-Przykręć kable zasilające do odpowiednich złączy na elektronice
-
-![Montaż wyświetlacza LCD](/MkDocsTest/resources/step13.1.webp)
-![Montaż wyświetlacza LCD](/MkDocsTest/resources/step13.2.webp)
-![Montaż wyświetlacza LCD](/MkDocsTest/resources/step13.3.webp)
+!!! info "Potrzebne elementy"
+    - Śruby M5x8
+    - Śruby M5x5
+    - Śruby M3x6
 
 ## Montaż wyświetlacza
 Przykręć uchwyt wyświetlacza do przedniego profilu frezarki z pomocą dwóch śrub M5x8
@@ -25,12 +18,7 @@ Włóż wtyczkę taśmy do gniazda w elektronice, a wtyczkę reset w gniazdo res
 ![Montaż wyświetlacza LCD](/MkDocsTest/resources/step13.8.webp)
 ![Montaż wyświetlacza LCD](/MkDocsTest/resources/step13.9.webp)
 
-Poprowadź taśmę wzdłuż profilu pod spodem frezarki, wsuwając ją w rowek razem z kablem resetu.
-
-![Montaż wyświetlacza LCD](/MkDocsTest/resources/step13.10.webp)
-![Montaż wyświetlacza LCD](/MkDocsTest/resources/step13.11.webp)
-![Montaż wyświetlacza LCD](/MkDocsTest/resources/step13.12.webp)
-![Montaż wyświetlacza LCD](/MkDocsTest/resources/step13.13.webp)
+Poprowadź taśmę wzdłuż profilu pod spodem frezarki
 
 Załóż obudowę elektroniki i przykręć ja za pomocą 4 śrub M3x6
 

@@ -33,8 +33,9 @@ nav:
   - index.md
   - Introduction:
     - Introduction/index.md
-  - Assembly:
+  - BOM: 
     - Assembly/index.md
+  - Assembly:
     - Assembly/step1.md
     - Step2:
       - Assembly/Step2/index.md
@@ -149,6 +150,7 @@ plugins:
       nav_translations:
         pl:
           Introduction: Wstęp
+          BOM: Zestawienie materiałowe (BOM)
           Assembly: Montaż
           Step2: Krok 2 - Przygotowanie profili v-slot ramy frezarki
           Step3: Krok 3 - Montaż ramy frezarki i zasilacza

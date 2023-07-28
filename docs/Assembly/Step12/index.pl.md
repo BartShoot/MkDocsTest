@@ -15,3 +15,10 @@ Umieść kable zasilania w peszłu, a następnie przeprowadź kable przez otwór
 
 ![Podłączenie zasilania](/MkDocsTest/resources/step12.4.webp)
 ![Podłączenie zasilania](/MkDocsTest/resources/step12.5.webp)
+
+## Zasilanie wyświetlacza LCD
+Przykręć kable zasilające do odpowiednich złączy na elektronice
+
+![Montaż wyświetlacza LCD](/MkDocsTest/resources/step13.1.webp)
+![Montaż wyświetlacza LCD](/MkDocsTest/resources/step13.2.webp)
+![Montaż wyświetlacza LCD](/MkDocsTest/resources/step13.3.webp)

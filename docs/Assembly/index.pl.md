@@ -1,4 +1,4 @@
-# Instrukcja montażu
+# Zestawienie materiałowe
 
 ## Potrzebne narzędzia
 
@@ -33,12 +33,6 @@
 |7/4 corrugated protective pipe | 2|
 |10/5 corrugated protective pipe | 2|
 |Zip ties| 20|
-
-## Zamienniki
-|Przedmiot|Ilość|
-|-----------------------------|------|
-|Cronos Maker mainboard GRBL CNC Controller Control Board 3Axis| 1|
-|Cronos Maker offline working controller LCD screen| 1|
 
 ## Śrubki nakrętki itp.
 |Przedmiot|Potrzebna ilość|Typ|Ilość w opakowaniu
