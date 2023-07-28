@@ -1,9 +1,9 @@
 # Krok 4 - Montaż płyty MDF do ramy frezarki 
 
-## Potrzebne elementy
-- Śruby M4x10
-- Nakrętki młotkowe M4
-- Klucz imbusowy 
+!!! info "Potrzebne elementy"
+    - Śruby M4x10
+    - Nakrętki młotkowe M4
+    - Klucz imbusowy 
 
 ## Przygotowanie płyty do montażu
 
