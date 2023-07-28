@@ -1,12 +1,13 @@
 # Krok 3 - Montaż ramy frezarki i zasilacza
 
-## Potrzebne elementy
-- Profile A, B, C, D, R oraz L
-- Śruby M4x8
-- Śruby M5x8
-- Śruby M3x10
-- Śruby M5x10
-- Nóżki
+!!! info "Potrzebne elementy"
+    - Profile A, B, C, D, R oraz L
+    - Śruby M4x8
+    - Śruby M5x8
+    - Śruby M3x10
+    - Śruby M5x10
+    - Nóżki
+
 ## Układ elementów w ramie
 Połóż wszystkie elementy na płaskiej powierzchni. Przykręć za pomocą śrub M5x8 profile v-slot 2020 do profili v-slot 2040 zachowując odpowiednie odległości tak jak na zdjęciu
 
