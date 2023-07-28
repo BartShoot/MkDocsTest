@@ -4,78 +4,74 @@
     * 4mm Allen key (hex key) 
     * 2 longest 2040 v-slot extrusions 
     * 4 2020 v-slot extrusions
-  
+    * Black brackets (gussets)
+    <figure markdown>
+    ![Black brackets](/MkDocsTest/resources/step2.2.webp){ loading=lazy }
+    </figure>
+    * M5x8 screws
+    <figure markdown>
+    ![M5x8 screws](/MkDocsTest/resources/step2.4.webp){ loading=lazy }
+    </figure>
+    * T-nuts
+    <figure markdown>
+    ![T-nuts](/MkDocsTest/resources/step2.3.webp){ loading=lazy }
+    </figure>
+
 <figure markdown>
-![Profile podpisane](/MkDocsTest/resources/step2.1.webp){ loading=lazy }
-<figcaption>Profile 2x 2040, 4x 2020</figcaption>
+![Marked profiles](/MkDocsTest/resources/step2.1.webp){ loading=lazy }
+<figcaption>2x 2040, 4x 2020 Profiles</figcaption>
 </figure>
 
-!!! Tip "Wskazówka"
-    Oznacz każdy z profili 2020 kolejno literami A, B, C, D. Te oznaczenia pomogą ci sprawnie zmontować ramę frezarki.
+!!! Tip "Hint"
+    Mark each 2020 extrusion with A, B, C, D letters. These markings will help you with efficient assembly of milling machine frame.
 
-
-* czarne kątkowniki (łączniki profili)
-<figure markdown>
-![Czarne kątowniki](/MkDocsTest/resources/step2.2.webp){ loading=lazy }
-</figure>
-
-* śrubki M5x8
-<figure markdown>
-![Śrubki M5x8](/MkDocsTest/resources/step2.4.webp){ loading=lazy }
-</figure>
-
-* nakrętki T-nut
-<figure markdown>
-![Nakrętki T-nut](/MkDocsTest/resources/step2.3.webp){ loading=lazy }
-</figure>
-
-## Przygotowanie kątowników
-W jeden z otworów kątownika włóż śrubę M5x8 i nakręć na nią nakrętkę T-nut. __W ten sposób przygotuj wszystkie kątowniki.__
+## Preparing brackets
+Insert a M5x8 screw in one of the holes in the bracket and screw a T-nut on it. __Prepare all brackets in the same way.__
 
 <figure markdown>
-![Włóż śrubę M5x8 w otwór kątownika](/MkDocsTest/resources/step2.5.webp){ loading=lazy }
-<figcaption>Włóż śrubę M5x8 w otwór kątownika</figcaption>
+![Insert M5x8 screw into brackets](/MkDocsTest/resources/step2.5.webp){ loading=lazy }
+<figcaption>Insert M5x8 into brackets</figcaption>
 </figure>
 
 <figure markdown>
-![Nakręć na nią nakrętkę T-nut](/MkDocsTest/resources/step2.6.webp){ loading=lazy }
-<figcaption>Nakręć na nią nakrętkę T-nut</figcaption>
+![Screw the M5x8 screw into T-Nut](/MkDocsTest/resources/step2.6.webp){ loading=lazy }
+<figcaption>Screw the M5x8 screw into T-Nut</figcaption>
 </figure>
 
 <figure markdown>
-![W ten sposób przygotuj wszystkie kątowniki](/MkDocsTest/resources/step2.7.webp){ loading=lazy }
-<figcaption>W ten sposób przygotuj wszystkie kątowniki</figcaption>
+![__Prepare all brackets in the same way](/MkDocsTest/resources/step2.7.webp){ loading=lazy }
+<figcaption>__Prepare all brackets in the same way</figcaption>
 </figure>
 
-## Przygotowanie wzorników
-__Wytnij wzdłuż przerywanej linii wzorniki, które ułatwią ci umieszczenie nakrętek t-nut ora kątowników w profilach__
+## Preparing templates
+__Cut the templates along the dotted line. They will be used to correctly place T-nuts and brackets inside the extrusions__
 
-![Kartka ze wzornikami](/MkDocsTest/resources/step2.8.webp){ loading=lazy }
-![Wytnij wzorniki wzdłuż linii](/MkDocsTest/resources/step2.9.webp){ loading=lazy }
-![Gotowe wzorniki](/MkDocsTest/resources/step2.10.webp){ loading=lazy }
+![Sheet of paper with templates](/MkDocsTest/resources/step2.8.webp){ loading=lazy }
+![Cut templates along the lines](/MkDocsTest/resources/step2.9.webp){ loading=lazy }
+![Ready templates](/MkDocsTest/resources/step2.10.webp){ loading=lazy }
 
-__Nałóż na profile 2040 wzorniki i sklej, tak jak pokazano na zdjęciach__
+__Place the templates on 2040 extrusions and glue together as shown in the pictures__
 
-!!! Danger "Uwaga"
-    Zwróć uwagę na wzornik L, ma zostać naklejony w odpowiednim ułożeniu w stosunku do naklejki znamionowej. W ten sposób przygotujesz profile L i R
+!!! Danger "Warning"
+    Pay attention to the direction of the L template in relation to the nameplate. Prepare the L and R extrusions this way.
 
-![Zorientuj wzornik tak by pasował do naklejki znamionowej](/MkDocsTest/resources/step2.11.webp){ loading=lazy }
-![Zorientuj wzornik tak by pasował do naklejki znamionowej](/MkDocsTest/resources/step2.12.webp){ loading=lazy }
-![Zorientuj wzornik tak by pasował do naklejki znamionowej](/MkDocsTest/resources/step2.13.webp){ loading=lazy }
-![Zorientuj wzornik tak by pasował do naklejki znamionowej](/MkDocsTest/resources/step2.14.webp){ loading=lazy }
-![Wzornik R naklej tak, żeby litera R była na węższym boku profilu](/MkDocsTest/resources/step2.15.webp){ loading=lazy }
-![Wzornik R naklej tak, żeby litera R była na węższym boku profilu](/MkDocsTest/resources/step2.16.webp){ loading=lazy }
+![Orient the template so it matches the nameplate](/MkDocsTest/resources/step2.11.webp){ loading=lazy }
+![Orient the template so it matches the nameplate](/MkDocsTest/resources/step2.12.webp){ loading=lazy }
+![Orient the template so it matches the nameplate](/MkDocsTest/resources/step2.13.webp){ loading=lazy }
+![Orient the template so it matches the nameplate](/MkDocsTest/resources/step2.14.webp){ loading=lazy }
+![Glue the R template so the "R" letter is oriented on the narrower side of the extrusion](/MkDocsTest/resources/step2.15.webp){ loading=lazy }
+![Glue the R template so the "R" letter is oriented on the narrower side of the extrusion](/MkDocsTest/resources/step2.16.webp){ loading=lazy }
 
-__Na profile 2020 nałóż wzorniki i sklej je tak jak pokazano na zdjęciach. W ten sposób przygotujesz profile A, B, C, D__
+__Place the templates on 2020 extrusions and glue together as shown in the pictures. Prepare the A, B, C, D extrusions this way__
 
-![Przygotowane wzorniki naklej na profile 2020](/MkDocsTest/resources/step2.17.webp){ loading=lazy }
-![Przygotowane wzorniki naklej na profile 2020](/MkDocsTest/resources/step2.18.webp){ loading=lazy }
-![Przygotowane wzorniki naklej na profile 2020](/MkDocsTest/resources/step2.19.webp){ loading=lazy }
-![Przygotowane wzorniki naklej na profile 2020](/MkDocsTest/resources/step2.20.webp){ loading=lazy }
-![Przygotowane wzorniki naklej na profile 2020](/MkDocsTest/resources/step2.21.webp){ loading=lazy }
-![Przygotowane wzorniki naklej na profile 2020](/MkDocsTest/resources/step2.22.webp){ loading=lazy }
+![Glue the prepared templates on 2020 extrusions](/MkDocsTest/resources/step2.17.webp){ loading=lazy }
+![Glue the prepared templates on 2020 extrusions](/MkDocsTest/resources/step2.18.webp){ loading=lazy }
+![Glue the prepared templates on 2020 extrusions](/MkDocsTest/resources/step2.19.webp){ loading=lazy }
+![Glue the prepared templates on 2020 extrusions](/MkDocsTest/resources/step2.20.webp){ loading=lazy }
+![Glue the prepared templates on 2020 extrusions](/MkDocsTest/resources/step2.21.webp){ loading=lazy }
+![Glue the prepared templates on 2020 extrusions](/MkDocsTest/resources/step2.22.webp){ loading=lazy }
 
-__Korzystając ze wzorów na wzorniku wsuń do profili A, B, C, D nakrętki t-nut i przykręć do nich kątowniki__
+__Insert T-Nuts and mount the brackets on extrusions according to symbols on A, B, C,D templates__
 
-!!! Note "Wzornik"
-    Na stronach z rysunkiem nakrętki T-nut wsuń tylko nakrętki, na polach z trójkątem nakręć też kątowniki zgodnie z ilością rysunków.
+!!! Note "Template"
+    The symbols on extrusions are showing what you should insert into it. T-Nut symbols show you how many T-Nuts you should put into the slit in the extrusion and triangles show how many brackets should you mount to it.
