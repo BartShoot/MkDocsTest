@@ -1,16 +1,16 @@
 # Krok 7 - Montaż osi X
 
-## Potrzebne elementy
-- Łożyska LM12UU
-- Nakrętki trapezowe
-- Śruby M3x25
-- Śruby M5x35
-- Śruby M5x40
-- Łożyska 608RS
-- Profil v-slot 2040 z żółtą naklejką ostrzegawczą
-- Pręty liniowe fi 12 od długości 400mm
-- Smar CX-80
-- Silnik krokowy
+!!! info "Potrzebne elementy"
+    - Łożyska LM12UU
+    - Nakrętki trapezowe
+    - Śruby M3x25
+    - Śruby M5x35
+    - Śruby M5x40
+    - Łożyska 608RS
+    - Profil v-slot 2040 z żółtą naklejką ostrzegawczą
+    - Pręty liniowe fi 12 o długości 400mm
+    - Smar CX-80
+    - Silnik krokowy
   
 ## Montaż mocowania osi Y
 Przygotuj dwa elementy mocujące oś Y

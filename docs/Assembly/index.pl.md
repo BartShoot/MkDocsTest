@@ -3,6 +3,7 @@
 ## Potrzebne narzędzia
 
 * Młotek
+* Klucz imbusowy
 
 ## Lista części (BOM)
 

@@ -3,6 +3,7 @@
 ## Required tools
 
 * Hammer
+* Allen key (hex key)
 
 ## Part List (BOM)
 
