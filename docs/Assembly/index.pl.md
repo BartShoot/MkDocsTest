@@ -4,6 +4,7 @@
 
 * Młotek
 * Klucz imbusowy
+* Smar CX80
 
 ## Lista części (BOM)
 

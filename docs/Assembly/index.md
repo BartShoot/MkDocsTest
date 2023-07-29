@@ -4,6 +4,7 @@
 
 * Hammer
 * Allen key (hex key)
+* CX80 lithium grease
 
 ## Part List (BOM)
 

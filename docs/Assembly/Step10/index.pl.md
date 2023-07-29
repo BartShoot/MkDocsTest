@@ -1,12 +1,12 @@
 # Krok 10 - Montaż elektroniki
 
-## Potrzebne elementy
-- Śruby M3x50
-- Śruby M5x10
-- Nakrętki T-nut
-- Osłona na kable/peszel
-- Opaski zaciskowe
-- Kawałek filamentu 3mm
+!!! info "Potrzebne elementy"
+    - Śruby M3x50
+    - Śruby M5x10
+    - Nakrętki T-nut
+    - Osłona na kable/peszel
+    - Opaski zaciskowe
+    - Kawałek filamentu 3mm
 
 ## Montaż elektroniki do ramy
 Przykręć dolną część obudowy elektroniki do tylnej części ramy drukarki za pomocą śrub M5x10

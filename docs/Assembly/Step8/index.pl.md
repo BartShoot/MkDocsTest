@@ -1,13 +1,13 @@
 # Krok 8 - Montaż osi X na ramie frezarki
 
-## Potrzebne elementy
-- Nakrętki T-nut
-- Śruby M3x10
-- Śruby M5x10
-- Śruby M5x12
-- Smar CX-80
-- Łożyska kulkowe 608ZZ
-- Nakrętkę trapezową
+!!! info "Potrzebne elementy"
+    - Nakrętki T-nut
+    - Śruby M3x10
+    - Śruby M5x10
+    - Śruby M5x12
+    - Smar CX-80
+    - Łożyska kulkowe 608ZZ
+    - Nakrętkę trapezową
 
 ## Montaż mocowania silników do ramy
 Wsuń po dwie nakrętki T-nut w rowki profili 570 mm po prawej i lewej stronie oraz po jednej w górny rowek po obu stronach.

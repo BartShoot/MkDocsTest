@@ -1,10 +1,10 @@
 # Krok 14 - Montaż modułu odkurzacza
 
-## Potrzebne elementy
-- Śruby M3x30
-- Śruby M5x25
+!!! info "Potrzebne elementy"
+    - Śruby M3x30
+    - Śruby M5x25
 
-## Montaż uchwytu na zasilacz
+## Montaż uchwytu na odkurzacz
 Przykręć pierwszą modułu odkurzacza śrubami M3x30 do mocowania wrzeciona a drugą część do lewego bocznego profilu dwoma śrubami M5x25
 
 ![Montaż modułu odkurzacza](/MkDocsTest/resources/step14.1.webp)

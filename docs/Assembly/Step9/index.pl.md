@@ -1,9 +1,9 @@
 # Krok 9 - Montaż krańcówek osi X Y Z
 
-## Potrzebne elementy
-- Śruby M3x10
-- Śruby M5x8
-- Krańcówki
+!!! info "Potrzebne elementy"
+    - Śruby M3x10
+    - Śruby M5x8
+    - Krańcówki
 
 ## Montaż krańcówki X Z
 Przykręć śrubami M3x10 krańcówki X i Z do gniazd znajdujących się na części Z i X

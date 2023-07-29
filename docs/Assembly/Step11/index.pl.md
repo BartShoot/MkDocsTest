@@ -1,9 +1,9 @@
 # Krok 11 - Montaż modułu bezpieczeństwa
 
-## Potrzebne elementy
-- Moduł Safe Box
-- Śrubki M5x10
-- Nakrętki T-nut
+!!! info "Potrzebne elementy"
+    - Moduł Safe Box
+    - Śrubki M5x10
+    - Nakrętki T-nut
 
 ## Przygotowanie wyłącznika bezpieczeństwa
 Weź moduł „Safe Box” i odkręć 4 śruby mocujące jego pokrywę
