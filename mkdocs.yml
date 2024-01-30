@@ -75,10 +75,10 @@ nav:
 extra: 
   alternate:
     - name: English
-      link: /MkDocsTest/en/
+      link: /en/
       lang: en
     - name: Polish
-      link: /MkDocsTest/pl/
+      link: /pl/
       lang: pl
 
 extra_css:
@@ -113,14 +113,14 @@ plugins:
       #
       #cover: false
       #back_cover: true
-      #cover_title: TITLE TEXT
+      #cover_title: 
       #cover_subtitle: SUBTITLE TEXT
       #custom_template_path: TEMPLATES PATH
       #
       #toc_title: TOC TITLE TEXT
       #heading_shift: false
-      #toc_level: 3
-      #ordered_chapter_level: 2
+      toc_level: 2
+      ordered_chapter_level: 1
       #excludes_children:
       #    - 'release-notes/:upgrading'
       #    - 'release-notes/:changelog'
@@ -139,10 +139,10 @@ plugins:
       #headless_chrome_path: 'C:\Program Files\Google\Chrome\Application\chrome.exe'
       #
       #output_path: any-place/document.pdf
-      enabled_if_env: ENABLE_PDF_EXPORT
+      #enabled_if_env: ENABLE_PDF_EXPORT
       #
       #debug_html: true
-      show_anchors: true
+      #show_anchors: true
       #verbose: true
   - i18n:
       default_language: en

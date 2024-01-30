@@ -4,10 +4,10 @@ Slide the T-nuts in the 2040 extrusions labeled L and R using the templates, as 
 
 ## Extrusion L
 
-![Extrusion L](/MkDocsTest/resources/step2.69.webp){ loading=lazy }
-![Extrusion L](/MkDocsTest/resources/step2.70.webp){ loading=lazy }
+![Extrusion L](resources/step2.69.webp){ loading=lazy }
+![Extrusion L](resources/step2.70.webp){ loading=lazy }
 
 ## Extrusion R
 
-![Extrusion R](/MkDocsTest/resources/step2.71.webp){ loading=lazy }
-![Extrusion R](/MkDocsTest/resources/step2.72.webp){ loading=lazy }
+![Extrusion R](resources/step2.71.webp){ loading=lazy }
+![Extrusion R](resources/step2.72.webp){ loading=lazy }

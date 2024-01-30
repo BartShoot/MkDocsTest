@@ -16,8 +16,8 @@
   
 <figure markdown>
 
-![Don't throw away](/MkDocsTest/resources/WEEE_symbol_vectors.svg){ width="100", align=left }
-![CE Marking](/MkDocsTest/resources/CEMarking.svg){ width="200", align=right }
+![Don't throw away](resources/WEEE_symbol_vectors.svg){ width="100", align=left }
+![CE Marking](resources/CEMarking.svg){ width="200", align=right }
 
 </figure>
 
@@ -31,7 +31,7 @@ __For this and other reasons, we expressly state that we are not responsible and
 ## 3. Safety instructions
 
 !!! Danger "Warning!"
-    ![Warning](/MkDocsTest/resources/warningOutline.svg){ width="120", align=right }
+    ![Warning](resources/warningOutline.svg){ width="120", align=right }
     <font size=5 color=red> Proceed with extreme caution when operating the milling machine. It is is an electrical device with moving parts.</font>
 
 1. This device is intended for use only indoors. Do not expose it to elements, like rain or snow. Always keep the device in dry environment, located at least 30 cm from other items.
@@ -87,7 +87,7 @@ Of course there is also a way to control the device using a PC, after connecting
 We recommend using the CNCJS software [(https://cnc.js.org/)](https://cnc.js.org/) to control the machine — it is completely free and very advanced while being quite intuitive.
 
 <figure markdown>
-![cnc.js](/MkDocsTest/resources/cncjs.webp){ loading=lazy }
+![cnc.js](resources/cncjs.webp){ loading=lazy }
 <figcaption>cnc.js</figcaption>
 </figure>
 
